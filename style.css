@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Schnyder";
+  src: url("fonts/Schnyder_X_Condensed-20210110T092005Z-001/Schnyder_X_Condensed/Schnyder_X_Cond_XL_Demi.otf");
+  font-weight: 700;
+  font-style: normal;
+}
+
+.nav {
+  z-index: 10;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 45px;
+}
+/*# sourceMappingURL=style.css.map */
